@@ -153,9 +153,9 @@ SOFTWARE.
 }
 
 .cwp_cell_sol_true {
-	color: green;
+	bacground-color: green;
 }
 
 .cwp_cell_sol_false {
-	color: red;
+	background-color: red;
 }
